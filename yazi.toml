@@ -1,0 +1,7 @@
+[mgr]
+# Default is [1, 4, 3] → (parent : current/filetree : preview)
+# Change to give much more space to preview:
+# ratio = [1, 2, 5]     # ← Recommended starting point for your setup
+
+# Or even more extreme preview-focused:
+ratio = [0, 2, 6]   # hides the parent pane completely
