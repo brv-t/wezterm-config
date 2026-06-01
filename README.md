@@ -1,1 +1,2 @@
 # wezterm
+-- a simple config
